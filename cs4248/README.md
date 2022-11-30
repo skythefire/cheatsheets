@@ -1,5 +1,5 @@
 # cs4248 - natural language processing
-ay22/23 semester 1
+ay22/23 semester 1 </br>
 taught by Mr Ng Hwee Tou
 
 ## topics covered:
